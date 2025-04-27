@@ -30,3 +30,4 @@ async def main():
 # Запуск
 if __name__ == "__main__":
     asyncio.run(main())
+#13213213213
